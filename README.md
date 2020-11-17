@@ -23,9 +23,9 @@ Proposé et animé par **Régis Robineau** (coordinateur technique de Biblissima
   - [Musées](#musées)
   - [Portails et bibliothèques numériques](#portails-et-bibliothèques-numériques)
 - [Exercices](#exercices)
-  - [Exercice 1 : prendre en main Mirador 3](#exercice-1-prendre-en-main-mirador-3)
-  - [Exercice 2 : Annoter un objet avec SimpleAnnotationServer (SAS)](#annoter-un-objet-avec-simpleannotationserver-sas)
-  - [Exercice 3 : créer/éditer un Manifeste avec le Manifest Editor](#)
+  - Exercice 1 : prendre en main Mirador 3
+  - Exercice 2 : Annoter un objet avec SimpleAnnotationServer (SAS)
+  - Exercice 3 : créer/éditer un Manifeste avec le Manifest Editor
   - [Bonus](#bonus)
 
 ------
