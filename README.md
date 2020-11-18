@@ -8,7 +8,7 @@ Proposé et animé par **Régis Robineau** (coordinateur technique de Biblissima
 
 **Documents :**
 
-- Support de présentation (matin : *Introduction à IIIF*) : <url_pdf>
+- Support de présentation en PDF (matin : *Introduction à IIIF*) : http://projet.biblissima.fr/sites/default/files/atelier_iiif_dhnord_robineau_20201118.pdf
 
 **Pré-requis techniques :**
 
